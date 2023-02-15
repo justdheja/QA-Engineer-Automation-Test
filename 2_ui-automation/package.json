@@ -1,0 +1,17 @@
+{
+	"name": "2_ui-automation",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "npx playwright test",
+		"report": "npx playwright show-report",
+		"test-headed-chrome": "npx playwright test --headed --project=desktop-chrome"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@playwright/test": "^1.30.0"
+	}
+}
