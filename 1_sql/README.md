@@ -19,6 +19,8 @@ JOIN tbl_income
 ON tbl_income.emp_code=tbl_employee.emp_code
 WHERE tbl_employee.emp_status='R';
 ```
+<img src="result_2.png"
+     alt="Result 2"/>
 ---
 
 ### c) Query for showing emp_code, name, status, income and sort by income descending ###
@@ -29,3 +31,5 @@ JOIN tbl_income
 ON tbl_income.emp_code=tbl_employee.emp_code
 ORDER BY emp_income DESC;
 ```
+<img src="result_3.png"
+     alt="Result 3"/>
