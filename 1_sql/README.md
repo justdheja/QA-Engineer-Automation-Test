@@ -4,4 +4,5 @@
 ```
 SELECT * FROM tbl_employee WHERE emp_name='Abdi' and emp_status='R'
 ```
-![result 1](result_1.jpg)
+<img src="result_1.png"
+     alt="Result 1"/>
