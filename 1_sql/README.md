@@ -4,4 +4,4 @@
 ```
 SELECT * FROM tbl_employee WHERE emp_name='Abdi' and emp_status='R'
 ```
-![](result_1.jpg)
+![result 1](result_1.jpg)
