@@ -13,7 +13,6 @@ npx playwright test --project=desktop-chrome --headed
 ```
 ### Result: ###
 ![image](result.png)
-![gif](result.gif)
-Or you can watch the video [here](https://youtu.be/k6__Hvmx-C8).
+you can watch the result video [here](https://youtu.be/k6__Hvmx-C8).
 
 ---
