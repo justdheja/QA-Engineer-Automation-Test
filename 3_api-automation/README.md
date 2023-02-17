@@ -19,3 +19,4 @@ HTML report: (paste into browser to view) | Karate version: 1.3.1
 file:./target/karate-reports/karate-summary.html
 ===================================================================
 ```
+[html result](https://github.com/justdheja/QA-Engineer-Automation-Test/blob/master/3_api-automation/target/karate-reports/karate-summary.html)
