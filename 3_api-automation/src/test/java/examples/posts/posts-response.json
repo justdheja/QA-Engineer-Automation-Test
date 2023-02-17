@@ -1,0 +1,6 @@
+{
+  "userId": #notnull,
+  "id": #number,
+  "title": "#string",
+  "body": "#string"
+}
